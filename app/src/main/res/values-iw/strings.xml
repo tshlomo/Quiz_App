@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="correct_answers">תשובות נכונות</string>
+    <string name="difficulty">רמת קושי</string>
+    <string name="fetching_data">אוסף מידע</string>
+    <string name="go_to_home">עמוד הבית</string>
+    <string name="loading_quiz">טוען חידון</string>
+    <string name="next_question">שאלה הבאה</string>
+    <string name="question">שאלה</string>
+    <string name="questions_missed">שאלות שלא נענו</string>
+    <string name="quiz">חידון</string>
+    <string name="results">תוצאות</string>
+    <string name="start_quiz">התחל חידון</string>
+    <string name="total_questions">סך שאלות</string>
+    <string name="verifying_answer">בודק תשובה...</string>
+    <string name="view_quiz">צפה בחידון</string>
+    <string name="wrong_answers">תשובות שגויות</string>
+    <string name="your_last_score">תוצאתך האחרונה</string>
+    <string name="change_language">שנה שפה</string>
+    <string name="correct_answer_feedback">תשובה נכונה</string>
+    <string name="wrong_answer_feedback">תשובה שגויה, התשובה הנכונה היא :</string>
+    <string name="times_up_feedback">הזמן נגמר! שום תשובה לא נרשמה</string>
+    <string name="dialog_cancel_btn">ביטול</string>
+    <string name="dialog_confirm_btn">אישור</string>
+    <string name="dialog_quit_tv">את/ה בטוח שברצונך לצאת?</string>
+    <string name="quit_quiz">יציאה מהחידון?</string>
+    <string name="first_question_load">טוען שאלה ראשונה</string>
+    <string name="starting_quiz_in">מתחיל חידון בעוד...</string>
+</resources>
